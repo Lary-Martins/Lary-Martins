@@ -15,9 +15,11 @@
    <br />
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
   <br />
-- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
+- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar e me conectar com pessoas;
   <br />
-- 📫 Por favor, envie um email para **laryssamartinsoffice@gmail.com** para me encontrar.
+- 📫 Por favor, envie um email para **laryssamartinsoffice@gmail.com** para me encontrar;
+  <br />
+- 🖇️ Contate-me pelo <a href="www.linkedin.com/in/laryssa-martins-11196b20a">meu linkedin</a> também.
  
 <br />
 <br />
@@ -25,8 +27,8 @@
 
  <div>
   <a href="https://github.com/Lary-Martins">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lary-Martins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lary-Martins&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lary-Martins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lary-Martins&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <br />
 <div style="display: inline_block"><br>
