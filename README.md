@@ -7,9 +7,9 @@
 
 - 🌱 Sou pessoa estudante da Trybe, atualmente finalizando o módulo de Front-end;
   <br />
-- 👩🏿‍💻 Estou aprendendo a fazer conponetes funcionas e utilizar hooks; 
+- 👩🏿‍💻 Estou aprendendo a fazer componetes funcionas e utilizar hooks; 
   <br />
-- 🤔 Meus hobbies envolvem montagem de computarodes até assistir animes com os amigos pelo Discord;
+- 🤔 Meus hobbies vão de: montagem de computarodes até assistir animes em call com amiges;
   <br />
 - 🎧 Tenho a necessidade de fazer __tudo__ ouvindo música, inclusive codar;
    <br />
