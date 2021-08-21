@@ -9,7 +9,7 @@
   <br />
 - 👩🏿‍💻 Estou aprendendo a fazer conponetes funcionas e utilizar hooks; 
   <br />
-- 🤔 Meus hoobies envolvem montagem de computarodes até assistir animes com os amigos pelo Discord;
+- 🤔 Meus hobbies envolvem montagem de computarodes até assistir animes com os amigos pelo Discord;
   <br />
 - 🎧 Tenho a necessidade de fazer __tudo__ ouvindo música, inclusive codar;
    <br />
