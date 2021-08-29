@@ -7,7 +7,7 @@
 
 - 🌱 Sou pessoa estudante da Trybe, atualmente finalizando o módulo de Front-end;
   <br />
-- 👩🏿‍💻 Estou aprendendo a fazer componentes funcionas e utilizar hooks; 
+- 👩🏿‍💻 Estou aprendendo a fazer componentes funcionas, utilizar hooks e outras libs do React.js; 
   <br />
 - 🤔 Meus hobbies vão de: montagem de computarodes até assistir animes em call com amiges;
   <br />
