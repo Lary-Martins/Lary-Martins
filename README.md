@@ -5,9 +5,9 @@
 
 <img align="right" alt="Rafa-yoda" height="280" width="280" src="https://i.pinimg.com/originals/92/00/18/9200189aa837cc972d9e0e0224eefa47.gif">
 
-- 🌱 Sou pessoa estudante da Trybe, atualmente finalizando o módulo de Front-end;
+- 🌱 Sou pessoa estudante da Trybe, atualmente iniciando o módulo de Back-end;
   <br />
-- 👩🏿‍💻 Estou aprendendo a fazer componentes funcionas, utilizar hooks e outras libs do React.js; 
+- 👩🏿‍💻 Estou aprendendo a trabalhar com MySQL; 
   <br />
 - 🤔 Meus hobbies vão de: montagem de computarodes até assistir animes em call com amiges;
   <br />
@@ -19,8 +19,8 @@
   <br />
 - 📫 Por favor, envie um email para **laryssamartinsoffice@gmail.com** para me encontrar;
   <br />
-- 🖇️ Contate-me pelo <a href="https://www.linkedin.com/in/laryssa-martins-11196b20a">meu linkedin</a> também.
- 
+- 🖇️ Contate-me pelo <a href="https://www.linkedin.com/in/laryssa-martins-11196b20a">meu linkedin</a> também;
+
 <br />
 <br />
 <br />
@@ -40,5 +40,6 @@
   <img align="center" alt="Lary-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="Lary-Jest" height="30" width="40" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.a8fdca0c23.svg">
   <img align="center" alt="Lary-RTL" height="30" width="40" src="https://testing-library.com/img/octopus-64x64.png">
+  <img align="center" alt="Lary-Next" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
   <img align="center" alt="Lary-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
