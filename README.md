@@ -3,13 +3,13 @@
 
 <br />
 
-<img align="right" alt="Rafa-yoda" height="280" width="280" src="https://i.pinimg.com/originals/92/00/18/9200189aa837cc972d9e0e0224eefa47.gif">
+<img align="right" alt="lary" height="280" width="280" src="https://i.pinimg.com/originals/92/00/18/9200189aa837cc972d9e0e0224eefa47.gif">
 
 - 🌱 Sou pessoa estudante da Trybe, atualmente iniciando o módulo de Back-end;
   <br />
 - 👩🏿‍💻 Estou aprendendo a trabalhar com MySQL; 
   <br />
-- 🤔 Meus hobbies vão de: montagem de computarodes até assistir animes em call com amiges;
+- 🤔 Meus hobbies vão de: montagem de computadores até assistir animes em call com amiges;
   <br />
 - 🎧 Tenho a necessidade de fazer __tudo__ ouvindo música, inclusive codar;
    <br />
