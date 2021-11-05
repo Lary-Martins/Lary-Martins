@@ -38,7 +38,7 @@
   <img align="center" alt="Lary-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lary-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lary-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Lary-Jest" height="30" width="40" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.a8fdca0c23.svg">
+  <img align="center" alt="Lary-Jest" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_jest_snapshot_icon_130513.png">
   <img align="center" alt="Lary-RTL" height="30" width="40" src="https://testing-library.com/img/octopus-64x64.png">
   <img align="center" alt="Lary-Next" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
   <img align="center" alt="Lary-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
