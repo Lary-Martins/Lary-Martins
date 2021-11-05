@@ -19,7 +19,7 @@
   <br />
 - 📫 Por favor, envie um email para **laryssamartinsoffice@gmail.com** para me encontrar;
   <br />
-- 🖇️ Contate-me pelo <a href="https://www.linkedin.com/in/lary-martins">meu linkedin</a> também;
+- 🖇️ Contate-me pelo <a href="https://www.linkedin.com/in/Lary-Martins">meu linkedin</a> também;
 
 <br />
 <br />
