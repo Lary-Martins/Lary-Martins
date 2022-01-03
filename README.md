@@ -5,21 +5,19 @@
 
 <img align="right" alt="lary" height="280" width="280" src="https://i.pinimg.com/originals/92/00/18/9200189aa837cc972d9e0e0224eefa47.gif">
 
-- 🌱 Sou pessoa estudante da Trybe, atualmente iniciando o módulo de Back-end;
+- 🌱 Sou pessoa estudante da Trybe, atualmente no módulo de Back-end;
   <br />
-- 👩🏿‍💻 Estou aprendendo a trabalhar com MySQL; 
+- 👩🏿‍💻 Estou aprendendo a trabalhar com Node.js; 
   <br />
-- 🤔 Meus hobbies vão de: montagem de computadores até assistir animes em call com amigs;
+- 🤔 Meus hobbies incluem: montagem de computadores, assistir animes e filmes com amigos e ler histórias fictícias ;
   <br />
 - 🎧 Tenho a necessidade de fazer __tudo__ ouvindo música, inclusive codar;
    <br />
-- 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
+- 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedomento;
   <br />
-- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar e me conectar com pessoas;
+- 📫 Você pode enviar um email para **laryssamartinsoffice@gmail.com** para entrar enm contanto comigo;
   <br />
-- 📫 Por favor, envie um email para **laryssamartinsoffice@gmail.com** para me encontrar;
-  <br />
-- 🖇️ Contate-me pelo <a href="https://www.linkedin.com/in/Lary-Martins">meu linkedin</a> também;
+- 🖇️ Ou contate-me pelo <a href="https://www.linkedin.com/in/Lary-Martins">meu linkedin</a> também;
 
 <br />
 <br />
