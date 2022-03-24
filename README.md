@@ -9,7 +9,7 @@
   <br />
 - 👩🏿‍💻 Estou aprendendo a trabalhar com Node.js; 
   <br />
-- 🤔 Meus hobbies incluem: montagem de computadores, assistir animes e filmes com amigos e ler histórias fictícias ;
+- 🤔 Meus hobbies incluem: montagem de computadores, assistir animes e filmes com amigos e ler livros;
   <br />
 - 🎧 Tenho a necessidade de fazer __tudo__ ouvindo música, inclusive codar;
    <br />
