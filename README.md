@@ -7,7 +7,7 @@
 
 - 🌱 Sou pessoa estudante da Trybe, atualmente no módulo de Back-end;
   <br />
-- 👩🏿‍💻 Estou aprendendo a trabalhar com Node.js; 
+- 👩🏿‍💻 Estou aprendendo a trabalhar com Node.js com TypeScript e SOLID; 
   <br />
 - 🤔 Meus hobbies incluem: montagem de computadores, assistir animes e filmes com amigos e ler livros;
   <br />
