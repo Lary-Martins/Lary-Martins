@@ -42,5 +42,4 @@
   <img align="center" alt="Lary-Next" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
   <img align="center" alt="Lary-Docker" height="30" width="40" src="https://img.icons8.com/ios/344/docker.png">
   <img align="center" alt="Lary-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  https://img.icons8.com/ios/344/docker.png
 </div>
