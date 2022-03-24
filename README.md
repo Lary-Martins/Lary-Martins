@@ -15,7 +15,7 @@
    <br />
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedomento;
   <br />
-- 📫 Você pode enviar um email para **laryssamartinsoffice@gmail.com** para entrar enm contanto comigo;
+- 📫 Você pode enviar um email para **laryssamartinsoffice@gmail.com** para entrar em contanto comigo;
   <br />
 - 🖇️ Ou contate-me pelo <a href="https://www.linkedin.com/in/Lary-Martins">meu linkedin</a> também;
 
