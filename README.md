@@ -9,11 +9,11 @@
   <br />
 - 👩🏿‍💻 Estou aprendendo a trabalhar com Node.js com TypeScript e SOLID; 
   <br />
-- 🤔 Meus hobbies incluem: montagem de computadores, assistir animes e filmes com amigos e ler livros;
+- 🤔 Meus hobbies incluem: montagem de computadores, desenhar, assistir animes e filmes com amigos e ler livros;
   <br />
 - 🎧 Tenho a necessidade de fazer __tudo__ ouvindo música, inclusive codar;
    <br />
-- 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedomento;
+- 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedora back-end;
   <br />
 - 📫 Você pode enviar um email para **laryssamartinsoffice@gmail.com** para entrar em contanto comigo;
   <br />
