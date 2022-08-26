@@ -14,15 +14,15 @@ Sou uma dev back-end apaixonada pela minha área. Com muita música e dedicaçã
 </div>
   <br />
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lary-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lary-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Lary-Node" height="40" width="50" src="https://img.icons8.com/fluency/344/node-js.png">
-  <img align="center" alt="Lary-Redux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Lary-Typescript" height="40" width="50" src="https://symbols.getvecta.com/stencil_98/84_typescript-icon.91937dbb2c.svg">
-  <img align="center" alt="Lary-Python" height="40" width="50" src="https://img.icons8.com/color/344/python--v1.png">
-  <img align="center" alt="Lary-Jest" height="40" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_jest_snapshot_icon_130513.png">
-  <img align="center" alt="Lary-RTL" height="40" width="50" src="https://testing-library.com/img/octopus-64x64.png">
-  <img align="center" alt="Lary-Mocha" height="40" width="50" src="https://symbols.getvecta.com/stencil_88/94_mochajs-icon.337bebf6b7.svg">
-  <img align="center" alt="Lary-Docker" height="40" width="50" src="https://img.icons8.com/ios/344/docker.png">
-  <img align="center" alt="Lary-Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Node" height="40" width="50" src="https://img.icons8.com/fluency/344/node-js.png">
+  <img align="center" alt="Redux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="Typescript" height="40" width="50" src="https://symbols.getvecta.com/stencil_98/84_typescript-icon.91937dbb2c.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://img.icons8.com/color/344/python--v1.png">
+  <img align="center" alt="Jest" height="40" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_jest_snapshot_icon_130513.png">
+  <img align="center" alt="RTL" height="40" width="50" src="https://testing-library.com/img/octopus-64x64.png">
+  <img align="center" alt="Mocha" height="40" width="50" src="https://symbols.getvecta.com/stencil_88/94_mochajs-icon.337bebf6b7.svg">
+  <img align="center" alt="Docker" height="40" width="50" src="https://img.icons8.com/ios/344/docker.png">
+  <img align="center" alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
